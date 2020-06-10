@@ -20,4 +20,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 004 : 
 - Working on Titanic Challenge of Kaggle.
-- 
+- Learnt about handling missing values in a non-time series dataset.
+- Resource: https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python/input
