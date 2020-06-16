@@ -36,3 +36,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 -  Learned about different Vectorization Methods.https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
 
 ### Day 008
+
+### Day 009
