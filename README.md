@@ -45,5 +45,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Worked on personal project.
 
 ### Day 010
+- Solved python data structure problems on Hackerrank.
+- https://www.youtube.com/watch?v=Otde6VGvhWM
 
 
