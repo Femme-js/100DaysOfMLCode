@@ -47,5 +47,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 010
 - Solved python data structure problems on Hackerrank.
 - https://www.youtube.com/watch?v=Otde6VGvhWM
+- Started the Newly Launched Course on NLP Specialization by deeplearning.ai : https://www.coursera.org/specializations/natural-language-processing?
+
 
 
