@@ -41,3 +41,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 
 ### Day 009
+- Learned about different Vectorization Techniques.
+- Worked on personal project.
+
+### Day 010
+
+
