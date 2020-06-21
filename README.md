@@ -56,7 +56,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 012
 
-- Nan
+- NaN
 
 ### Day 013
 
