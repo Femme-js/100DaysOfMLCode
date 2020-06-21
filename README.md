@@ -49,5 +49,17 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - https://www.youtube.com/watch?v=Otde6VGvhWM
 - Started the Newly Launched Course on NLP Specialization by deeplearning.ai : https://www.coursera.org/specializations/natural-language-processing?
 
+### Day 011
 
+- NaN
+
+
+### Day 012
+
+- Nan
+
+### Day 013
+
+- Due to Common Cold and Fever, wasn't able to do anything  on day 11 and day 12.
+- Solved  Python Data Structure Problems on Hackerrank. 
 
