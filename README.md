@@ -63,3 +63,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Due to Common Cold and Fever, wasn't able to do anything  on day 11 and day 12.
 - Solved  Python Data Structure Problems on Hackerrank. 
 
+
+### Day 014
+
+- Almost done with my NLP Project. Maximum Accuracy achieved is 93.7%.
+- https://github.com/Femme-js/Hoaxify-
+- Completed Week 1 of NLP Specialization Course.
+
