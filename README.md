@@ -75,3 +75,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Learrned about ENsemble Methods.
 - Majorly Gradient Boosting.
 
+### Day 016
+
+- Completed my NLP Project. Here's the link: https://github.com/Femme-js/Hoaxify
+
