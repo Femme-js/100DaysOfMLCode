@@ -70,3 +70,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - https://github.com/Femme-js/Hoaxify-
 - Completed Week 1 of NLP Specialization Course.
 
+### Day 015
+
+- Learrned about ENsemble Methods.
+- Majorly Gradient Boosting.
+
