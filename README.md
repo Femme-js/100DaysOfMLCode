@@ -79,3 +79,12 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 - Completed my NLP Project. Here's the link: https://github.com/Femme-js/Hoaxify
 
+### Day 017
+-
+
+### Day 018
+
+- 
+### Day 019
+
+-
