@@ -72,7 +72,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 015
 
-- Learrned about ENsemble Methods.
+- Learrned about Ensemble Methods.
 - Majorly Gradient Boosting.
 
 ### Day 016
@@ -80,11 +80,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Completed my NLP Project. Here's the link: https://github.com/Femme-js/Hoaxify
 
 ### Day 017
--
+- Solved Python Data Structure Problems.
 
 ### Day 018
+- Completed Week 1 of Deep Learning couse by Andrew Ng.
 
-- 
 ### Day 019
-
 -
