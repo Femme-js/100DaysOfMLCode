@@ -86,4 +86,4 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Completed Week 1 of Deep Learning couse by Andrew Ng.
 
 ### Day 019
--
+- Completed Week 1 of NLP Specialization course by Deep Learning.ai
