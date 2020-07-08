@@ -90,5 +90,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 020
 
--
+- Completed Week 2 of NLP Specialization course by Deep Learning.ai
+
+### Day 021
+- Learned to balance the Imbalanced Dataset.
+
+### Day 022
 
