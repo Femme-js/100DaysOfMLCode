@@ -96,4 +96,27 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Learned to balance the Imbalanced Dataset.
 
 ### Day 022
+- Surveyed State-of-art models of NLP
+
+### Day 023
+- Watched Tutorials of Deep Learning and Covered basic theory behind.
+- https://www.youtube.com/watch?v=98sLySmptKY&list=PLtCBuHKmdxOdO88sgcFyDdL5ATg1WY-_U
+
+### Day 024
+- Learned about Autoencoders and their different architectures.
+
+### Day 025
+- Started working on Denoising Algorithm for denoising cifar-10 dataset.
+
+### Day 025
+- Learned about Bias-Variance Tradeoff.
+
+### Day 026
+- Learned about Hyperparameter Techniques and other Optimizing Techniques.
+
+### Day 027
+- Learned about Generative Adversial Networks and read some related research papers.
+
+### Day 028
+- Implemetned a Denoising Auto-encoder. 
 
