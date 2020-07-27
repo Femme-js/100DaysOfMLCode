@@ -120,3 +120,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 028
 - Implemetned a Denoising Auto-encoder. 
 
+### Day 029
+- Completed NLP Specialization course 1 by Deeplearning.ai
+
+### Day 030
+- Completed 100 Data Science Interview Questions
+
+
