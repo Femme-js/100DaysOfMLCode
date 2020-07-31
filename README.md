@@ -126,4 +126,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 030
 - Completed 100 Data Science Interview Questions
 
+### Day 031
+- Reading the book 'Mastering Machine Learning ALgorithms"
+- Also reading " Deep Learning with Keras"
+
+
 
